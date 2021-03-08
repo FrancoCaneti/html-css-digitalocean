@@ -2,32 +2,45 @@
 
 /*Nav*/
 
-.nav{
-    height: 50px;
-    padding-left:1%;
+.logo {
+    height: 50%;
+    width: 35%;
+    margin-top: 1%;
+   
+   
+}
+
+
+}
+
+  @media screen and (max-width:1299px){
+      
     
-     ;
-}
-
-
-}
-
-
-
-  @media screen and (max-width:999px){
-       /*hamburger*/
+   .logo {
+        height: 55%;
+        width: 30%;
+        margin-top: 1%;
+        margin-right: 2%;
+   }
+    
+    /*hamburger*/
        span {
         top: -50px;
        }
+
+       .nav-list{
+        display:none;
+       }
+
    }
    
    
-   @media screen and (min-width:1000px){
+
+   @media screen and (min-width:1300px){
 
     /*hamburger*/
         span {
           display: none;
         }
       
- 
 }
