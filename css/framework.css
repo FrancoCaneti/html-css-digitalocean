@@ -1,0 +1,33 @@
+@media screen and  (max-width 500px){
+
+/*Nav*/
+
+.nav{
+    height: 50px;
+    padding-left:1%;
+    
+     ;
+}
+
+
+}
+
+
+
+  @media screen and (max-width:999px){
+       /*hamburger*/
+       span {
+        top: -50px;
+       }
+   }
+   
+   
+   @media screen and (min-width:1000px){
+
+    /*hamburger*/
+        span {
+          display: none;
+        }
+      
+ 
+}
