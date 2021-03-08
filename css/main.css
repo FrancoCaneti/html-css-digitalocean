@@ -69,3 +69,12 @@ span{
     border-radius: 5%;
     margin-left: 10px;
 }
+
+/*ocean*/
+.ocean{
+    height: 400px;
+    background-color:#1f8ece;
+    padding-left:5%;
+    background-image: url(../img/bg-banner-home.jpg);
+    background-size: 115%;
+}
