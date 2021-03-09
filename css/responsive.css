@@ -1,0 +1,57 @@
+
+/*small device*/
+
+
+@media screen and  (max-width 500px){
+
+       /*Nav*/
+
+.logo {
+    height: 50%;
+    width: 35%;
+    margin-top: 1%;  
+ }
+
+
+}
+
+    /*medium device*/
+
+  @media screen and (max-width:1299px){
+      
+    
+   .logo {
+        height: 55%;
+        width: 30%;
+        margin-top: 1%;
+        margin-right: 2%;
+   }
+    
+    /*hamburger*/
+       span {
+        top: -50px;
+       }
+
+       .nav-list{
+        display:none;
+       }
+
+   }
+   
+   /*large device*/
+
+   @media screen and (min-width:1300px){
+
+    /*hamburger*/
+        span {
+          display: none;
+        }
+      
+        .logo {
+            height: 55%;
+            width: 20%;
+            margin-top: 1%;
+            margin-right: 3%;
+        }
+
+}
