@@ -185,3 +185,42 @@ span{
     height: 200px;
 }
 
+.color-font{
+    color:grey;
+    margin: 0 60px;
+}
+/**********************************************/
+.container-w{
+
+    height:500px;
+    text-align:center;
+
+}
+
+.special{
+    color:blue
+}
+.box-c {
+    float: left;
+    height: 60%;
+    width: 15%;
+    background-color: hotpink;
+    margin-left: 5%;
+}
+
+
+.box-b{
+    float: left;
+    height: 60%;
+    width: 15%;
+    background-color: hotpink;
+    margin-left: 5%;
+}
+
+.list-s{
+    text-align: left;
+    margin: 30px 20px;
+    list-style: none;
+}
+
+
