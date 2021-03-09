@@ -188,6 +188,7 @@ span{
 .color-font{
     color:grey;
     margin: 0 60px;
+    padding-top: 10p
 }
 /**********************************************/
 .container-w{
@@ -228,10 +229,27 @@ span{
 }
 .color-b{
     color:rgb(14, 33, 197);
+    padding-top: 10px;
 }
 
 .color-g{
     color:grey;
+    padding-top: 10px;
 }
 
+/*********************************/
 
+.jumbotron{
+    height:400px;
+    background-color: rgb(243, 245, 249, 1);
+    text-align:center;
+}
+
+ .box-j{
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    margin-left: 5%;
+    text-align: left;
+    background-color: indigo;
+ }
