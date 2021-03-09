@@ -198,29 +198,40 @@ span{
 }
 
 .special{
-    color:blue
+    color:blue;
+    margin-bottom:10px;
+    margin-top:10px
 }
 .box-c {
     float: left;
-    height: 60%;
+    height: 80%;
     width: 15%;
-    background-color: hotpink;
     margin-left: 5%;
+    
 }
 
 
 .box-b{
     float: left;
-    height: 60%;
-    width: 15%;
-    background-color: hotpink;
+    margin: 10px;
+    height: 35%;
+    width: 33%;
     margin-left: 5%;
+    text-align: left;
 }
+
 
 .list-s{
     text-align: left;
-    margin: 30px 20px;
+    margin: 45px 20px;
     list-style: none;
+}
+.color-b{
+    color:rgb(14, 33, 197);
+}
+
+.color-g{
+    color:grey;
 }
 
 
