@@ -315,12 +315,18 @@ table {
   /*jumbotrone-2*/
   .box-j2{
     margin: 10px;
-    height: 300PX;
+    height: 300px;
     width: 40%;
     margin-left: 30%;
-    text-align: left;
-    background-image: url(../img/slide.jpg);
-    background-size: 100%;
+    text-align: center;
+    background-color: white; 
+  }
+  /**********/
+  /*banner blu*/
+
+  .banner-blu{
+      height: 200px;
+      background-color: blue;
   }
   
   
