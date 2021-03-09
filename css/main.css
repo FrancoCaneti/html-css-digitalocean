@@ -228,7 +228,7 @@ span{
     list-style: none;
 }
 .color-b{
-    color:rgb(14, 33, 197);
+    color:rgb(23, 44, 240);
     padding-top: 10px;
     padding-bottom:10px
 }
@@ -295,7 +295,7 @@ span{
 /*tabella blu*/
 .tab-b{
     height: 350px;
-    background-color:rgb(0 104 255);
+    background: linear-gradient(135deg, #121b7a 0%, #2a35b0 100%);
     text-align: center;
     color:white
 }
@@ -325,9 +325,46 @@ table {
   /*banner blu*/
 
   .banner-blu{
-      height: 200px;
-      background-color: blue;
+      height: 150px;
+      background: linear-gradient(135deg, #120038 0%, #2a35b0 100%);
+      text-align: center;
+      padding-top:20px;
+      color:white 
   }
+
+  .bottone-blu{
+    display: inline-block;
+    max-width: 200px;
+    max-height: 60px;
+    background-color: white;
+    padding: 20px 68px;
+    text-decoration: none;
+    text-align: center;
+    border: 1px solid #0080FF;
+    color: #0080FF;
+    border-radius: 5%;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  /************/
+  /*FOOTER*/
+footer{
+    height: 400px;
+        background-color:yellow
+    }
+.box-f{
+    height: 400px;
+    width: 25%;
+    background-color: palevioletred;
+    float:left;
+}
+.box-f2{
+    height: 400px;
+    width: 25%;
+    background-color: palevioletred;
+    float:left;
+}
+
   
   
  
