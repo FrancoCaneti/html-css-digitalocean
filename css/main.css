@@ -278,6 +278,7 @@ span{
     border-radius: 50%;
  }
 /************/
+/*Container bianco2*/
 
 .container-v{
     height: 300px;
@@ -290,3 +291,10 @@ span{
     margin-left: 7%;
     text-align:left
 }
+/*************/
+/*tabella blu*/
+.tab-b{
+    height: 300px;
+    background-color: lawngreen;
+}
+
