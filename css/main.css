@@ -13,6 +13,7 @@ body{
      
 }
 
+
 /*Nav*/
 
 .nav{
@@ -124,7 +125,7 @@ span{
     max-height: 46px;
     background-color: white;
     padding: 10px;
-    padding-right: 350px;
+    padding-right: 70%;
     text-decoration: none;
     text-align: center;
     border: 1px solid #d2d8dd;
@@ -141,7 +142,7 @@ span{
     max-height: 46px;
     background-color: #0080FF;
     padding: 10px;
-    padding-right: 350px;
+    padding-right: 70%;
     text-decoration: none;
     text-align: center;
     border: 1px solid #d2d8dd;
@@ -162,27 +163,27 @@ span{
 }
 .partner-d{
     
-    height:200px
+    height:30%
     
 }
 .partner-g{
   
-    height:200px
+    height:30%
     
 }
 .partner-s{
   
-    height:200px
+    height:30%
     
 }
 
 .partner-h{
    
-    height:200px
+    height:30%
 }
 .partner-sp{
     
-    height: 200px;
+    height:30%
 }
 
 .color-font{
@@ -349,24 +350,45 @@ table {
   /************/
   /*FOOTER*/
 footer{
-    height: 400px;
-        background-color:yellow
+    height: 450px;
+        background-color:#010e28;
+        color:white
     }
 .box-f{
     height: 400px;
-    width: 25%;
-    background-color: palevioletred;
-    float:left;
+    width: 20%;
+    float: left;
+    margin: 1% 1% 0 7%;
+     
 }
 .box-f2{
     height: 400px;
-    width: 25%;
-    background-color: palevioletred;
-    float:left;
+    width: 13%;
+    margin: 1% 2%;
+    float: left;;
 }
 
+.social-footer{
+    display: inline-block;
+    list-style: none;
+    font-size: 20px;
+    vertical-align: 5px;
+    margin:10px 10px
+}
+
+.ul-footer{
+    text-align: left;
+    list-style: none;
+    margin: 10px 10px;
+}
   
-  
+.li-footer{
+    margin-bottom:10px
+}
+
+.li-footer:first-child{
+    font-weight: bold;
+}
  
   
 
